@@ -8,7 +8,7 @@ let analyser;
 const audio1 = document.getElementById("audio1");
 
 
-const filecount = 82 //refer to rename.py to get the number for this quickly
+const filecount = 1 //refer to rename.py to get the number for this quickly
 //in order to have this work automatically it would require smth like nodejs
 
 
